@@ -5,7 +5,7 @@
 
 ## Plataforma de laboratorios
 
-Te damos la bienvenida a la **plataforma de laboratorios** del curso **# Rendimiento con Aurora PostgreSQL**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
+Te damos la bienvenida a la **plataforma de laboratorios** del curso **Rendimiento con Aurora PostgreSQL**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
 Este curso proporciona los conocimientos necesarios para optimizar el rendimiento de entornos Aurora PostgreSQL. Los participantes aprenderán a implementar controles de seguridad, optimizar consultas mediante índices y análisis de planes de ejecución, comprender los mecanismos de concurrencia y control transaccional, ajustar parámetros críticos del motor PostgreSQL, gestionar conexiones mediante RDS Proxy y técnicas de connection pooling, así como utilizar herramientas de observabilidad y diagnóstico para identificar y resolver problemas de rendimiento, disponibilidad y escalabilidad.
 
